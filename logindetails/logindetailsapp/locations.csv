@@ -1,0 +1,4 @@
+location_id, location_type, image_url, address
+a, Park, MEMORY GROVE PARK, https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_600,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/saltlake/City_Creek_Canyon_11_759a0d15-6923-4a94-adea-829d7d56797c.jpg, 300 N Canyon Rd Salt Lake City Utah 84111
+b, Park, LIBERTY PARK, https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_800,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/saltlake/VisitSaltLake_TracyAviary_HiRez_AustenDiamondPhotography_31_ff36b58b-dbc4-45e0-9669-48bc65df21e0.jpg, 600 900 S Salt Lake City Utah
+c, Park, SUGAR HOUSE PARK, https://images.squarespace-cdn.com/content/v1/5dca0ade42eefc3801ecb2be/1574101198871-MRKYQEVDM25T9GZZ059S/SH+Park+Autumn.jpg?format=2500w, 1330 2100 S Salt Lake City UT 84106

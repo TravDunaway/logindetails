@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="destination">
+        <p> Your Destination</p>
+    </div>
+    
+    <form action="/house">
+        <input type="submit" value="Home" />
+    </form>
+    <form action="/school/">
+        <input type="submit" value="School" />
+    </form>
+    <form action="/work/">
+        <input type="submit" value="Work" />
+    </form>
+    <a href="{{url_for('home')}}">Home</a>
+
+    
+    
+
+
+
+    {% endblock %}
