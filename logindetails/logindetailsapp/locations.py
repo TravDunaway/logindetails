@@ -2,8 +2,7 @@ import csv
 from pprint import pprint
 
 class Location:
-
-   def __init__(
+    def __init__(
       self,
       location_id,
       location_type,
@@ -21,8 +20,10 @@ class Location:
 
     def location_types(self):
         return f"${self.location_type}"
+
     def location_ids(self):
         return f"${self.location_id}"
+
     def location_address(self):
         return f"{self.address}"
 

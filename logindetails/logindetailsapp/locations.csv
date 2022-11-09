@@ -1,4 +1,26 @@
 location_id, location_type, image_url, address
-a, Park, MEMORY GROVE PARK, https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_600,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/saltlake/City_Creek_Canyon_11_759a0d15-6923-4a94-adea-829d7d56797c.jpg, 300 N Canyon Rd Salt Lake City Utah 84111
-b, Park, LIBERTY PARK, https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_800,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/saltlake/VisitSaltLake_TracyAviary_HiRez_AustenDiamondPhotography_31_ff36b58b-dbc4-45e0-9669-48bc65df21e0.jpg, 600 900 S Salt Lake City Utah
-c, Park, SUGAR HOUSE PARK, https://images.squarespace-cdn.com/content/v1/5dca0ade42eefc3801ecb2be/1574101198871-MRKYQEVDM25T9GZZ059S/SH+Park+Autumn.jpg?format=2500w, 1330 2100 S Salt Lake City UT 84106
+LIBERTY PARK, PARK, https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_800,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/saltlake/VisitSaltLake_TracyAviary_HiRez_AustenDiamondPhotography_31_ff36b58b-dbc4-45e0-9669-48bc65df21e0.jpg, Salt Lake County
+MEMORY GROVE PARK, PARK, https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_600,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/saltlake/City_Creek_Canyon_11_759a0d15-6923-4a94-adea-829d7d56797c.jpg, Salt Lake County
+SUGAR HOUSE PARK, PARK, https://youtu.be/4dR0zFtsEpM, Salt Lake County
+TANNER PARK, PARK, https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_801,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/saltlake/tannerdog_14_b2c3af9b-1a57-4a04-96c4-7288aa1f8e73.jpg, Salt Lake County
+CANYON RIM PARK, PARK, https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_800,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/saltlake/Venture_Out_Canyon_Rim_PARK_Millcreek_09960613-1abc-4508-b739-7cb87f09694b.jpg, Salt Lake County
+WASHINGTON SQUARE PARK, PARK, https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_900,q_75,w_1200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/saltlake/Transportation_TRAX_CityCtyBldg_S_Greenwood_d4d7e058-767e-4121-9a09-85f91e2aae5c.jpg, Salt Lake County
+JORDAN PARK, PARK, https://youtu.be/qJrDgreVNT8, Salt Lake County
+MOUNTVIEW PARK, PARK, https://youtu.be/zlEZ5Hrcuek, Salt Lake County
+LONE PEAK PARK, PARK, https://youtu.be/PVf1E7il6UI, Salt Lake County
+WARDLE FIELDS PARK, PARK, https://youtu.be/j4pjlcjyDOk, Salt Lake County
+CORY WRIDE MEMORIAL PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2018/07/Cory-Wride-Memorial-PARK-6-1140x760.jpg, Utah County
+NEPTUNE PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2015/06/IMG_06371.jpg, Utah County
+PATRIOT PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2019/04/Patriot-PARK-16-1140x760.jpg, Utah County
+SHAY PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2016/06/Shay-PARK-10-1140x855.jpg, Utah County
+WINES PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2015/06/IMG_1705-1140x855.jpg, Utah County
+HIGHLAND GLEN PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2015/06/IMG_23791-1140x855.jpg, Utah County
+HARVEY PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2020/07/Harvey-PARK-Cedar-Hills-3-1536x1024.jpeg, Utah County
+DISCOVERY PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2019/06/Discovery-PARK-Pleasant-Grove-3-1140x760.jpg, Utah County
+VINEYARD GROVE PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2018/11/Vineyard-Grove-PARK-Splash-Pad-1140x855.jpg, Utah County
+NIELSEN’S GROVE PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2015/06/IMG_39011.jpg, Utah County
+ALL TOGETHER PLAYGROUND, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2017/03/All-Together-Playground-Orem-13-1140x760.jpg, Utah County
+BICENTENNIAL PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2016/05/IMG_7012-1140x855.jpg, Utah County
+PAUL REAM WILDERNESS PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2015/10/IMG_3658-1140x855.jpg, Utah County
+NORTH PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2015/06/IMG_3961-1140x855.jpg, Utah County
+ADVENTURE HEIGHTS ALL ABILITIES PARK, PARK, https://www.utahsadventurefamily.com/wp-content/uploads/2020/09/Adventure-Heights-Spanish-Fork-16-1-1536x1024.jpeg, Utah County

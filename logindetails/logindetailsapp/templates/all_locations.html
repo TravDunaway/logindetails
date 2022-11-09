@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<div id="location-list">
+   {% for location in location_list %}
+      <div class="card text-center">
+         <img class="location-image" src="{{ location.image_url }}">
+         <h5>
+         <a href="{{ url_for('location_details', location_id=location.location_id) }}">
+            {{ location.location_type }}
+         </a>
+         </h5>
+         {{ location.location_types() }}
+      </div>
+   {% endfor %}
+   </div>
+{% endblock %}
